@@ -1,0 +1,31 @@
+{
+  "kanzo": "kanzo 0.3.0",
+  "machine": "Linux x86_64, 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz",
+  "binary_mb": 4.93,
+  "startup_ms_median": 1.6,
+  "tool_list_tokens": 912,
+  "tokenizer": "tiktoken o200k_base",
+  "tool_count": 10,
+  "reply_tokens": {
+    "min": 10,
+    "max": 62,
+    "each": [
+      10,
+      10,
+      19,
+      37,
+      10,
+      12,
+      62,
+      20
+    ]
+  },
+  "rss_idle_mb": 4.0,
+  "board_3000_api_ms_median": 20.1,
+  "board_3000_json_kb": 690,
+  "rss_3000_tasks_mb": 4.4,
+  "list_tasks_3000": {
+    "ms": 6.2,
+    "tokens": 34026
+  }
+}

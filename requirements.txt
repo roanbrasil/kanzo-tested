@@ -1,0 +1,2 @@
+pytest
+tiktoken  # optional: token counts in scripts/measure.py (falls back to chars/4)

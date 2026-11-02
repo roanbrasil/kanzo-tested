@@ -1,0 +1,9 @@
+# the article text and images are published elsewhere; this repo holds only code
+article*.md
+images/
+*.png
+*.svg
+
+.venv/
+__pycache__/
+.pytest_cache/
